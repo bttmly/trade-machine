@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trade-machine/static/css/main.a617e044.chunk.css",
+    "main.js": "/trade-machine/static/js/main.5e3834cc.chunk.js",
+    "main.js.map": "/trade-machine/static/js/main.5e3834cc.chunk.js.map",
+    "runtime-main.js": "/trade-machine/static/js/runtime-main.049e36b2.js",
+    "runtime-main.js.map": "/trade-machine/static/js/runtime-main.049e36b2.js.map",
+    "static/js/2.9c69a858.chunk.js": "/trade-machine/static/js/2.9c69a858.chunk.js",
+    "static/js/2.9c69a858.chunk.js.map": "/trade-machine/static/js/2.9c69a858.chunk.js.map",
+    "static/js/3.dffea5e1.chunk.js": "/trade-machine/static/js/3.dffea5e1.chunk.js",
+    "static/js/3.dffea5e1.chunk.js.map": "/trade-machine/static/js/3.dffea5e1.chunk.js.map",
+    "index.html": "/trade-machine/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/trade-machine/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9c69a858.chunk.js.LICENSE.txt": "/trade-machine/static/js/2.9c69a858.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/trade-machine/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049e36b2.js",
+    "static/js/2.9c69a858.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5e3834cc.chunk.js"
+  ]
+}
